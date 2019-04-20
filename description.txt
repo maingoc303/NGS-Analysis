@@ -1,0 +1,12 @@
+In this folder you find a dataset with gene counts for 41 samples. A number of patients received a placebo (0) while the majority of patients received 
+a novel treatment for pancreatic cancer.
+
+The data (counts) are not processed!
+
+
+Identify the genes that are differentially expressed between the treated and placebo patients with a parametric approach. 
+   Write a report in ARTICLE STYLE of MAX. 5 pages (figures and tables included, references excluded). Make sure to motivate why you chose this method! (linespacing 1.5, fontsize normal)
+
+For the exam, prepare a presentation where you propose a workflow for the analysis of reduced representation bisulfite sequencing, starting from the fastq-file
+   to the detection of differential methylation regions within a sample. You do not need to invent a new method, you can combine existing methods. 
+   You should briefly discuss the methods and motivate why you chose this method.
